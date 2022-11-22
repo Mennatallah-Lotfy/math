@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+    color: darkblue;
+    font-size: 30px;
+    font-weight: 600;
+}
+table, th, td {
+    border: 2px solid;
+    padding: 5px; 
+    background-color:pink;
+  }
+button{
+    background-color: aliceblue;
+}
